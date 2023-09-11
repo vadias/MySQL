@@ -16,7 +16,7 @@ SELECT * FROM gb.phones
 WHERE  product_name  RLIKE '(1|2|3|4|5|6|7|8|9|0)';
 
 SELECT * FROM gb.phones
-WHERE  product_name  RLIKE '(8)';
+WHERE  product_name  RLIKE '8';
 
 
 
